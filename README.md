@@ -78,7 +78,7 @@ The core decision is: **Which team and individual performance gaps require the m
 The analysis confirms defensive issues and highlights efficiency concerns with a key player.
 
 <div style="background-color: #ffe0b2; border: 1px solid #ff9800; padding: 10px; margin-top: 15px;">
-LLM-GENERATED CONTENT (Model: GPT-4o; Prompt file: prompts/initial_prompt.txt): The team's overall defensive rebounding (68.0%) is a significant vulnerability, confirming the second-chance woes from last year. This team is also too careless with the ball, with a Turnover Rate of 13.5%. Malik Johnson's talent is undeniable, but the data indicates **significant inefficiency**: his 35.0% on isolation plays is a major drain on our offense. The defense needs a focused defensive scheme adjustment, but Johnson's isolation inefficiency must also be addressed.
+LLM-GENERATED CONTENT (Model: GPT-4o; Prompt file: prompts/initial_prompt.txt): The team's overall defensive rebounding (68.0%) is a significant vulnerability, confirming the second-chance woes from last year. This team is also too careless with the ball, with a Turnover Rate of 13.5%. Malik Johnson's talent is undeniable, but the data indicates significant inefficiency: his 35.0% on isolation plays is a major drain on our offense. The defense needs a focused defensive scheme adjustment, but Johnson's isolation inefficiency must also be addressed.
 </div>
 
 #### Recommendations (Tiered)
